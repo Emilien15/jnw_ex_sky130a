@@ -10,16 +10,16 @@ emilien
 
 # Why
 
-<explain why you made this module>
+to do the tutorial (milestone 0)
 
 # How
 
-<explain short how you made this module>
+by following the tutorial
 
 
 # What
 
-| What            |        Cell/Name |
+| What            |        JNW_EX |
 | :-              |  :-:       |
 | Schematic       | design/JNW_EX_SKY130A/JNW_EX.sch |
 | Layout          | design/JNW_EX_SKY130A/JNW_EX.mag |
