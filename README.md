@@ -29,7 +29,7 @@ by following the tutorial
 
 | Version | Status | Comment|
 | :---| :---| :---|
-|0.1.0 | :x: | Make something |
+|0.1.0 | :OK: | Make something |
 
 
 # Signal interface
